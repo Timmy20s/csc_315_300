@@ -2,15 +2,28 @@
 
 A new Flutter project.
 
-## Getting Started
+A basic Flutter mobile application built for CSC309/CSC315 coursework.
+The project demonstrates key Flutter fundamentals, including UI layouts, navigation between screens, state management, and form handling.
 
-This project is a starting point for a Flutter application.
+📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+Login screen with email and password fields
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Register screen
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Forgot Password screen
+
+SafeArea integration for better UI visibility
+
+Basic navigation using Navigator.push
+
+Simple counter functionality using setState
+
+<img width="1344" height="2992" alt="Screenshot_20251202_122309" src="https://github.com/user-attachments/assets/be3df3a3-1c3f-4d98-a261-6ec4a1226d57" />
+<img width="1344" height="2992" alt="Screenshot_20251202_122224" src="https://github.com/user-attachments/assets/22fad8e5-2e3f-45c6-b02f-ee236cbb46c4" />
+<img width="1344" height="2992" alt="Screenshot_20251202_120641" src="https://github.com/user-attachments/assets/5455169a-1c2d-46ac-aaa4-8e73e98c6412" />
+<img width="1344" height="2992" alt="Screenshot_20251202_120452" src="https://github.com/user-attachments/assets/1e2ade3d-31b4-453a-ae46-300edb8171cc" />
+<img width="1344" height="2992" alt="Screenshot_20251202_120003" src="https://github.com/user-attachments/assets/af49f5f5-09d2-46d9-91fa-7b4c6828a3d2" />
+
+
+
